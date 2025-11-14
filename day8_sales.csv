@@ -1,0 +1,11 @@
+date,customer,region,sales,quantity,product
+2024-01-03,Alice,East,1200.0,3.0,Monitor
+2024-01-05,Bob,West,800.0,2.0,Keyboard
+2024-01-06,Charlie,South,,1.0,Mouse
+2024-01-07,Diana,East,1500.0,5.0,Monitor
+2024-01-08,Edward,North,700.0,2.0,Mouse
+2024-01-10,Frank,West,1300.0,,Laptop
+2024-01-11,Grace,North,900.0,3.0,Keyboard
+2024-01-12,Hank,South,2000.0,4.0,Laptop
+2024-01-13,Irene,East,,1.0,Monitor
+2024-01-14,Jack,West,1100.0,2.0,Monitor

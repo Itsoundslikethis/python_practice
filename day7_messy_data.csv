@@ -1,0 +1,12 @@
+name,age,salary,department
+Alice,25,60000,Engineering
+Bob, ,72000 ,Engineering
+Charlie,35,81000, HR
+Diana,28, ,Engineering 
+Eddie,40,95000,ENGINEERING
+Bob,30,72000,Engineering
+  Fiona ,   27, 58000 , marketing
+George,31,62000, Marketing
+Hannah,29,61000,Marketing
+Ivan,thirty-two,70000,Engineering
+Julia,33,68000, HR
